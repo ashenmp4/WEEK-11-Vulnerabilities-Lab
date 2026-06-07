@@ -37,7 +37,7 @@ This sample models a classic transaction-based scare tactic attempting to trick 
 * **Answer:** `noreply`
 * **Analysis:** When evaluating the raw `From:` header metadata, the address string presents a structure similar to `noreply[gibberish]@sultanbogor.com`, utilizing an automated system moniker to blend in.
 
-![ICMP](Basic_Enumeration/netdiscover.png)
+![ICMP](Screenshots/task2.png)
 
 ---
 
@@ -54,7 +54,7 @@ Attackers routinely exploit the high volume of global logistics deliveries by se
 * **Answer:** `devret[.]xyz`
 * **Analysis:** Inspecting the underlying hyperlinked redirect chain reveals that the fake tracking buttons route traffic out to the root domain infrastructure managed by the adversary (`devret.xyz`). 
 
-![ICMP](Basic_Enumeration/netdiscover.png)
+![ICMP](Screenshots/task3.png)
 
 ---
 
@@ -71,7 +71,7 @@ This scenario evaluates a multi-stage corporate credential harvesting strategy m
 * **Answer:** `Citrix`
 * **Analysis:** Reviewing the explicit text fields, brand layouts, or interface signatures (such as the document portal header title) reveals references to Citrix ShareFile technologies mixed into the lure.
 
-![ICMP](Basic_Enumeration/netdiscover.png)
+![ICMP](Screenshots/task4.png)
 
 ---
 
@@ -87,7 +87,7 @@ A consumer-focused phishing methodology targeting streaming subscriptions, desig
 * **Answer:** `forward the message to phishing@netflix.com`
 * **Analysis:** Official organizations maintain specialized intake reporting boxes to aggregate threat telemetry and coordinate active takedowns of fraudulent portals.
 
-![ICMP](Basic_Enumeration/netdiscover.png)
+![ICMP](Screenshots/task5.png)
 
 ---
 
@@ -106,7 +106,7 @@ This attack sample presents a counterfeit electronic invoice or store receipt la
 * **Answer:** `Urgency`
 * **Analysis:** The invoice frames a substantial transaction that demands immediate cancellation if unauthorized, weaponizing psychological panic.
 
-![ICMP](Basic_Enumeration/netdiscover.png)
+![ICMP](Screenshots/task6.png)
 
 ---
 
@@ -122,7 +122,7 @@ This vector represents a highly technical corporate malware dropper flow masquer
 * **Answer:** `regasms.exe`
 * **Analysis:** Looking into the macro parameters or analyzing the process execution alerts reveals that the document attempts to fetch and execute a remote access payload disguised as `regasms.exe`.
 
-![ICMP](Basic_Enumeration/netdiscover.png)
+![ICMP](Screenshots/task7.png)
 
 ---
 
@@ -132,7 +132,7 @@ Defending environments against active phishing relies heavily on proactive techn
 * Misaligned domains and missing authentication controls (SPF, DKIM, DMARC failures).
 * Suspicious or uncommon attachments (.xlsm, .dot, double-extensions).
 
-![ICMP](Basic_Enumeration/netdiscover.png)
+![ICMP](Screenshots/task8.png)
 
 ---
 🏁 *Great job completing the Phishing Emails in Action lab! Keep analyzing, stay vigilant, and clear those alerts!*
