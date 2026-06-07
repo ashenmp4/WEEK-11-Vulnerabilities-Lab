@@ -8,18 +8,6 @@
 
 ---
 
-## 🗺️ Table of Contents
-1. [Task 1: Introduction](#task-1-introduction)
-2. [Task 2: Cancel Your PayPal Order](#task-2-cancel-your-paypal-order)
-3. [Task 3: Track Your Package](#task-3-track-your-package)
-4. [Task 4: Select Your Email Provider to View Document](#task-4-select-your-email-provider-to-view-document)
-5. [Task 5: Please Update Your Payment Details](#task-5-please-update-your-payment-details)
-6. [Task 6: Your Recent Purchase](#task-6-your-recent-purchase)
-7. [Task 7: DHL Express Courier Shipping Notice](#task-7-dhl-express-courier-shipping-notice)
-8. [Task 8: Conclusion](#task-8-conclusion)
-
----
-
 ## 🔍 Task 1: Introduction
 This room transitions core phishing theory into practical hands-on analysis using actual phishing, spam, and malicious email samples. 
 
@@ -31,6 +19,8 @@ This room transitions core phishing theory into practical hands-on analysis usin
 > ⚠️ **Warning:** The artifacts studied in this lab are derived from real phishing campaigns. Avoid interacting with active links or opening external files outside the secure sandbox environment.
 
 *No questions are required for this task.*
+
+
 
 ---
 
